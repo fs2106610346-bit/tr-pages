@@ -1,0 +1,81 @@
+{
+  "time": "2026-11-21T16:20:42.560Z",
+  "platforms": [
+    {
+      "name": "今日头条",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "name": "百度",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "name": "华尔街见闻",
+      "ok": true,
+      "items": 10
+    },
+    {
+      "name": "澎湃新闻",
+      "ok": true,
+      "items": 20
+    },
+    {
+      "name": "B站",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "name": "财联社",
+      "ok": true,
+      "items": 13
+    },
+    {
+      "name": "凤凰网",
+      "ok": true,
+      "items": 12
+    },
+    {
+      "name": "贴吧",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "name": "微博",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "name": "抖音",
+      "ok": true,
+      "items": 30
+    },
+    {
+      "name": "知乎",
+      "ok": true,
+      "items": 20
+    }
+  ],
+  "hotTotal": 255,
+  "matched": 41,
+  "groups": [
+    "中国:9",
+    "北美:8",
+    "英伟达:8",
+    "东亚:7",
+    "Claude:4",
+    "俄罗斯:3",
+    "芯片:2",
+    "字节跳动:1",
+    "航天:1",
+    "OpenAI:1"
+  ],
+  "pushed": {
+    "ok": 3,
+    "total": 3
+  },
+  "pages": {
+    "ok": true
+  }
+}
