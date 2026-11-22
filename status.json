@@ -1,75 +1,87 @@
 {
-  "time": "2026-11-22T00:00:14.801Z",
+  "time": "2026-11-22T04:52:24.102Z",
   "platforms": [
     {
       "name": "今日头条",
       "ok": true,
-      "items": 30
+      "items": 30,
+      "tries": 1
     },
     {
       "name": "百度",
       "ok": true,
-      "items": 30
+      "items": 30,
+      "tries": 1
     },
     {
       "name": "华尔街见闻",
       "ok": true,
-      "items": 10
+      "items": 10,
+      "tries": 1
     },
     {
       "name": "澎湃新闻",
-      "ok": false,
-      "items": 0
+      "ok": true,
+      "items": 20,
+      "tries": 1
     },
     {
       "name": "B站",
       "ok": true,
-      "items": 30
+      "items": 30,
+      "tries": 1
     },
     {
       "name": "财联社",
       "ok": true,
-      "items": 13
+      "items": 13,
+      "tries": 1
     },
     {
       "name": "凤凰网",
       "ok": true,
-      "items": 12
+      "items": 12,
+      "tries": 1
     },
     {
       "name": "贴吧",
       "ok": true,
-      "items": 30
+      "items": 30,
+      "tries": 1
     },
     {
       "name": "微博",
       "ok": true,
-      "items": 30
+      "items": 30,
+      "tries": 1
     },
     {
       "name": "抖音",
-      "ok": false,
-      "items": 0
+      "ok": true,
+      "items": 30,
+      "tries": 1
     },
     {
       "name": "知乎",
       "ok": true,
-      "items": 20
+      "items": 20,
+      "tries": 1
     }
   ],
-  "hotTotal": 205,
-  "matched": 32,
+  "failed": [],
+  "hotTotal": 255,
+  "matched": 29,
   "groups": [
-    "中国:12",
-    "北美:6",
+    "中国:6",
     "英伟达:5",
-    "东亚:4",
-    "俄罗斯:2",
+    "俄罗斯:4",
+    "东亚:3",
+    "北美:3",
+    "西欧:2",
     "OpenAI:2",
-    "芯片:1",
     "Claude:1",
-    "影之刃零:1",
-    "腾讯:1"
+    "谷歌:1",
+    "DeepSeek:1"
   ],
   "pushed": {
     "ok": 2,
