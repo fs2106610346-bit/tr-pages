@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-24T00:00:28.019Z",
+  "time": "2026-11-25T00:00:24.059Z",
   "platforms": [
     {
       "name": "今日头条",
@@ -27,68 +27,74 @@
     },
     {
       "name": "B站",
-      "ok": true,
-      "items": 30,
-      "tries": 2
-    },
-    {
-      "name": "财联社",
-      "ok": true,
-      "items": 13,
-      "tries": 3
-    },
-    {
-      "name": "凤凰网",
-      "ok": true,
-      "items": 12,
-      "tries": 3
-    },
-    {
-      "name": "贴吧",
-      "ok": true,
-      "items": 30,
-      "tries": 3
-    },
-    {
-      "name": "微博",
       "ok": false,
       "items": 0,
       "tries": 3,
       "err": "HTTP 500"
     },
     {
-      "name": "抖音",
+      "name": "财联社",
+      "ok": false,
+      "items": 0,
+      "tries": 3,
+      "err": "HTTP 500"
+    },
+    {
+      "name": "凤凰网",
+      "ok": false,
+      "items": 0,
+      "tries": 3,
+      "err": "HTTP 500"
+    },
+    {
+      "name": "贴吧",
       "ok": true,
       "items": 30,
       "tries": 1
     },
     {
+      "name": "微博",
+      "ok": true,
+      "items": 30,
+      "tries": 1
+    },
+    {
+      "name": "抖音",
+      "ok": false,
+      "items": 0,
+      "tries": 3,
+      "err": "HTTP 500"
+    },
+    {
       "name": "知乎",
       "ok": true,
       "items": 20,
-      "tries": 3
+      "tries": 1
     }
   ],
   "failed": [
-    "微博"
+    "B站",
+    "财联社",
+    "凤凰网",
+    "抖音"
   ],
-  "hotTotal": 225,
-  "matched": 59,
+  "hotTotal": 170,
+  "matched": 44,
   "groups": [
-    "英伟达:34",
+    "英伟达:16",
     "中国:8",
-    "北美:6",
+    "航天:7",
+    "华为:5",
     "东亚:3",
-    "芯片:2",
-    "特斯拉:2",
-    "航天:2",
-    "俄罗斯:1",
-    "AI 相关:1",
-    "胖东来:1"
+    "DeepSeek:2",
+    "Claude:2",
+    "光伏:1",
+    "苹果:1",
+    "芯片:1"
   ],
   "pushed": {
-    "ok": 2,
-    "total": 2
+    "ok": 3,
+    "total": 3
   },
   "pages": {
     "ok": true
