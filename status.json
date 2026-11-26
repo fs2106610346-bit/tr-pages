@@ -1,5 +1,5 @@
 {
-  "time": "2026-11-25T00:00:24.059Z",
+  "time": "2026-11-26T00:00:23.573Z",
   "platforms": [
     {
       "name": "今日头条",
@@ -27,24 +27,21 @@
     },
     {
       "name": "B站",
-      "ok": false,
-      "items": 0,
-      "tries": 3,
-      "err": "HTTP 500"
+      "ok": true,
+      "items": 30,
+      "tries": 1
     },
     {
       "name": "财联社",
-      "ok": false,
-      "items": 0,
-      "tries": 3,
-      "err": "HTTP 500"
+      "ok": true,
+      "items": 13,
+      "tries": 1
     },
     {
       "name": "凤凰网",
-      "ok": false,
-      "items": 0,
-      "tries": 3,
-      "err": "HTTP 500"
+      "ok": true,
+      "items": 12,
+      "tries": 1
     },
     {
       "name": "贴吧",
@@ -60,10 +57,9 @@
     },
     {
       "name": "抖音",
-      "ok": false,
-      "items": 0,
-      "tries": 3,
-      "err": "HTTP 500"
+      "ok": true,
+      "items": 30,
+      "tries": 1
     },
     {
       "name": "知乎",
@@ -72,24 +68,19 @@
       "tries": 1
     }
   ],
-  "failed": [
-    "B站",
-    "财联社",
-    "凤凰网",
-    "抖音"
-  ],
-  "hotTotal": 170,
-  "matched": 44,
+  "failed": [],
+  "hotTotal": 255,
+  "matched": 58,
   "groups": [
-    "英伟达:16",
-    "中国:8",
-    "航天:7",
-    "华为:5",
+    "中国:17",
+    "北美:13",
+    "航天:10",
+    "英伟达:9",
     "东亚:3",
-    "DeepSeek:2",
-    "Claude:2",
-    "光伏:1",
-    "苹果:1",
+    "DeepSeek:3",
+    "华为:2",
+    "谷歌:2",
+    "OpenAI:2",
     "芯片:1"
   ],
   "pushed": {
